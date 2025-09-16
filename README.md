@@ -4,6 +4,6 @@
 It reads a map file describing elevation data and renders it in isometric projection.
 
 ## How to run
-'./fdf file.fdf'
+`./fdf file.fdf`
 
-Replace 'file.fdf' with a valid '.fdf' map file in the 'assets' directory
+Replace `file.fdf` with a valid `.fdf` map file in the `assets` directory
